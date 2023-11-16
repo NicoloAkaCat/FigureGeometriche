@@ -1,3 +1,3 @@
 # Figure Geometriche
 
-wow locale
+wow github
